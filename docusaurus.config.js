@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'IT3049C - Web Game Development',
-  tagline: 'Wes Reed',
+  tagline: 'Andrew Lively',
   url: 'https://IT3049C-Lively-FA23.github.io',
   baseUrl: '/IT3049C/',
   onBrokenLinks: 'throw',
@@ -158,7 +158,7 @@ const config = {
               },
               {
                 label: '✉️ Email',
-                href: 'mailto:reedws@ucmail.uc.edu',
+                href: 'mailto:livelyar@ucmail.uc.edu',
               },
             ],
           },
@@ -184,7 +184,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Wes Reed. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Andrew Lively. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

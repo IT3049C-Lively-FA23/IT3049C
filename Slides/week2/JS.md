@@ -4,7 +4,7 @@ theme: uncover
 paginate: true
 title: JavaScript Fundamentals
 header: JavaScript Fundamentals
-footer: Wes Reed
+footer: Andrew Lively
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 <!-- _class: invert -->
@@ -94,7 +94,7 @@ ___
 using anything but backticks 😥
 
 ```js
-var name = "Wes Reed"
+var name = "Andrew Lively"
 
 var welcomeMsg = "Welcome, " + name + " to this game !"
 ```
@@ -106,7 +106,7 @@ ___
 using backticks 😌
 
 ```js
-var name = `Wes Reed`
+var name = `Andrew Lively`
 
 var welcomeMsg = `Welcome, ${ name } to this game !`;
 ```
