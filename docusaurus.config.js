@@ -9,7 +9,7 @@ const config = {
   title: "IT3049C - Web Game Development",
   tagline: "Andrew Lively",
   url: "https://it-3049-c.vercel.app/",
-  baseUrl: "/IT3049C/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
