@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'IT3049C - Web Game Development',
   tagline: 'Wes Reed',
-  url: 'https://reedws.github.io',
+  url: 'https://IT3049C-Lively-FA23.github.io',
   baseUrl: '/IT3049C/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'reedws', // Usually your GitHub org/user name.
+  organizationName: 'IT3049C-Lively-FA23', // Usually your GitHub org/user name.
   projectName: 'IT3049C', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
