@@ -1,7 +1,7 @@
 ---
 slug: vscode-extensions
 title: Visual Studio Code Settings and Extensions Sync
-authors: [ygilany,reedws]
+authors: [ygilany,reedws,livelyar]
 tags: [vscode, uses]
 ---
 

@@ -25,12 +25,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/reedws/IT3049C/tree/main/",
+          editUrl: "https://github.com/IT3049C-Lively-FA23/IT3049C/tree/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: "https://github.com/reedws/IT3049C/tree/main/",
+          editUrl: "https://github.com/IT3049C-Lively-FA23/IT3049C/tree/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -43,12 +43,11 @@ const config = {
     "@docusaurus/theme-live-codeblock",
     [
       "content-docs",
-      /** @type {import('@docusaurus/plugin-content-docs').Options} */
       ({
         id: "syllabus",
         path: "content/syllabus",
         routeBasePath: "syllabus",
-        editUrl: "https://github.com/reedws/IT3049C/tree/main/",
+        editUrl: "https://github.com/IT3049C-Lively-FA23/IT3049C/tree/main/",
         editCurrentVersion: true,
         sidebarPath: require.resolve("./content/syllabus/sidebarsSyllabus.js"),
         remarkPlugins: [require("mdx-mermaid")],
@@ -58,7 +57,6 @@ const config = {
     ],
     [
       "content-docs",
-      /** @type {import('@docusaurus/plugin-content-docs').Options} */
       ({
         id: "labs",
         path: "content/coursework",
@@ -98,7 +96,7 @@ const config = {
       //   isCloseable: false,
       // },
       navbar: {
-        title: "IT3049C - Reed",
+        title: "IT3049C - Lively",
         logo: {
           alt: "My Site Logo",
           src: "img/javascript.svg",
